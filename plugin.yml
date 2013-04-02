@@ -1,0 +1,6 @@
+name: EldinChat
+main: com.github.rehmedy7.EldinChat.EldinChat
+version: 0.1
+commands:
+  ch:
+    description: Displays help for EldinChat
